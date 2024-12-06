@@ -102,6 +102,8 @@
     src="https://github-readme-stats.vercel.app/api?username=devAnnaEliza&show_icons=true&title_color=50C878&theme=gruvbox&include_all_commits=true&locale=pt-br" 
   />
 
+<br/>
+
 <img 
       align="left" 
       alt="GitHub Stats" 
