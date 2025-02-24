@@ -1,7 +1,7 @@
 ## 🖥️ Anna Eliza
 **`Desenvolvedora Full Stack`** 
 
-✨ Olá! Seja bem-vindo ao meu GitHub. Sou desenvolvedora Full Stack formada pela Estácio e apaixonada por tecnologia. Meus repositórios incluem trabalhos acadêmicos, projetos desenvolvidos em cursos de programação e iniciativas pessoais, sempre buscando aprimorar minhas habilidades. Como uma profissional em início de carreira, meu principal objetivo é transformar conhecimento teórico em experiência prática.
+✨ Olá! Seja bem-vindo ao meu GitHub. Sou desenvolvedora Full Stack formada pela Estácio e apaixonada por tecnologia. Meus repositórios incluem trabalhos acadêmicos, projetos desenvolvidos em cursos de programação e projetos pessoais, sempre buscando aprimorar minhas habilidades. Como uma profissional em início de carreira, meu principal objetivo é transformar conhecimento teórico em experiência prática.
 
 😊 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo para oportunidades ou troca de ideias.
 
