@@ -83,7 +83,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<!--### 📊 Estatísticas
 
 <p>
   <img 
@@ -99,6 +99,6 @@
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAnnaEliza&title_color=50C878&theme=gruvbox&layout=compact&custom_title=Linguagens&langs_count=10" 
-  />
+  />-->
 
 </p>
