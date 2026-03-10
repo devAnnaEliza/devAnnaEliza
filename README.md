@@ -88,5 +88,5 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=devAnnaEliza&theme=swift&locale=pt_BR&card_width=350&card_height=150)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devAnnaEliza&theme=swift)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devAnnaEliza&theme=swift&card_width=350&card_height=150)
 </p>
