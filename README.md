@@ -85,8 +85,4 @@
 
 ### 📊 Estatísticas
 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=devAnnaEliza&theme=swift&locale=pt_BR)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devAnnaEliza&theme=swift)
-</p>
+<a href="https://github.com/devAnnaEliza"><img alt="Anna Eliza's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=devAnnaEliza&show_icons=true&count_private=true&theme=react&title_color=F85D7F&icon_color=F8D866" height="180px" width="50.5%"/></a>  <a href="https://github.com/devAnnaEliza"><img alt="Anna Eliza's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=devAnnaEliza&langs_count=6&layout=compact&theme=react&title_color=F85D7F&icon_color=F8D866" height="180px" width="38.5%"/></a>
